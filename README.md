@@ -3,9 +3,9 @@ This project focuses on data analysis of an e-commerce website the deals in onli
 
 # Data
 There were a total of three datasets available for analysis. 
-First - Dataset including type, subtype, profit, amount, and quantity of each order along with their order id.
-Second - Dataest including order id, name of the customer, and  their address.
-Third - Dataset included target for each category for different months.
+1. Dataset including type, subtype, profit, amount, and quantity of each order along with their order id.
+2. Dataest including order id, name of the customer, and  their address.
+3. Dataset included target for each category for different months.
 
 # Results
 The results of analysis have been compiled into a powerpoint presentation linked below.
