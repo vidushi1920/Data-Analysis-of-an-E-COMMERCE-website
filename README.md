@@ -6,6 +6,7 @@ There were a total of three datasets available for analysis.
 1. Dataset including type, subtype, profit, amount, and quantity of each order along with their order id.
 2. Dataest including order id, name of the customer, and  their address.
 3. Dataset included target for each category for different months.
+
 Data spans over a period of two years. Other than that, no additional information was provided. For example, there was no information about why the business ended or if it ended, any advertisement and marketing done by the company etc.
 
 # Tech Stack
